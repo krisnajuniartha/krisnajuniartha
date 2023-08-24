@@ -1,8 +1,10 @@
-### Hi, i'm Krisna Juniartha 👋😄
+Hi, i'm Krisna Juniartha 👋😄
+==
 
 Saya seorang mahasiswa Semester 5 Program Studi Teknologi Informasi Universitas Udayana. Saya tertarik dengan banyak hal seperti desing, mobile development, web ,dan saat ini saya sedang mempelajarinya melalui program Bangkit 2023 Batch 2.
 
-### Github Statistic
+Github Statistic
+--
 <p align="left">
 <a href="https://github.com/krisnajuniartha">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krisnajuniartha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
