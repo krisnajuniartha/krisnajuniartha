@@ -2,7 +2,7 @@
 
 Saya seorang mahasiswa Semester 5 Program Studi Teknologi Informasi Universitas Udayana. Saya tertarik dengan banyak hal seperti desing, mobile development, web ,dan saat ini saya sedang mempelajarinya melalui program Bangkit 2023 Batch 2.
 
-## Find me on social media 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+## Find me on social media 🌎: <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 - Instagram <a href="https://www.twitch.tv/blacktechdiva">Here</a>
 - Linkedin <a href="https://www.linkedin.com/in/krisnajuniartha/">Here</a>
 
