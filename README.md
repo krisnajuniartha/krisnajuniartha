@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, i'm Krisna Juniartha 👋😄
+
+Saya seorang mahasiswa Semester 5 Program Studi Teknologi Informasi Universitas Udayana. Saya tertarik dengan banyak hal seperti desing, mobile development, web ,dan saat ini saya sedang mempelajarinya melalui program Bangkit 2023 Batch 2.
+
+## Find me on social media 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+- Instagram <a href="https://www.twitch.tv/blacktechdiva">Here</a>
+- Linkedin <a href="https://www.linkedin.com/in/krisnajuniartha/">Here</a>
+
 
 <!--
 **krisnajuniartha/krisnajuniartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
