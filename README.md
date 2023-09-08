@@ -1,7 +1,7 @@
 Hi, i'm Krisna Juniartha 👋😄
 ==
 
-Saya adalah seorang mahasiswa Semester 5 Program Studi Teknologi Informasi Universitas Udayana. Saya tertarik dengan banyak hal seperti desing, mobile development, web ,dan saat ini saya sedang mempelajarinya melalui program Bangkit 2023 Batch 2.
+Saya adalah seorang mahasiswa Semester 5 Program Studi Teknologi Informasi Universitas Udayana. Saya tertarik dengan banyak hal seperti design, mobile development, web ,dan saat ini saya sedang mempelajarinya melalui program Bangkit 2023 Batch 2.
 
 Github Statistic
 --
